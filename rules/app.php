@@ -4,7 +4,7 @@
  * More info: https://github.com/FriendsOfPHP/PHP-CS-Fixer/blob/3.0/doc/rules/index.rst
  *
  * Last review: 2021-05-17
- * Last PHP CS Fixer update: 2021-05-03
+ * Last PHP CS Fixer update: 2021-06-19
  */
 
 return [
