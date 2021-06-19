@@ -132,7 +132,7 @@ return [
     'single_line_throw' => true,
     'static_lambda' => true,
     'use_arrow_functions' => true,
-    'void_return' => true,
+    'void_return' => false,
 
     // Import
     'fully_qualified_strict_types' => true,
