@@ -130,7 +130,7 @@ return [
     'regular_callable_call' => true,
     'return_type_declaration' => true,
     'single_line_throw' => true,
-    'static_lambda' => true,
+    'static_lambda' => false,
     'use_arrow_functions' => true,
     'void_return' => false,
 
