@@ -56,8 +56,8 @@ return [
     // Class Notation
     'class_attributes_separation' => true,
     'class_definition' => true,
-    'final_class' => true,
-    'final_internal_class' => true,
+    'final_class' => false,
+    'final_internal_class' => false,
     'final_public_method_for_abstract_class' => true,
     'no_blank_lines_after_class_opening' => true,
     'no_null_property_initialization' => true,
@@ -261,7 +261,7 @@ return [
     'space_after_semicolon' => true,
 
     // Strict
-    'declare_strict_types' => true,
+    'declare_strict_types' => false,
     'strict_comparison' => true,
     'strict_param' => true,
 
